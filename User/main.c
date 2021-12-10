@@ -14,6 +14,8 @@ void task_func(void *p_arg)
 
 OS_STK stack_zyk[128];
 
+
+//
 int main(void)
 {	 
 	 print_init();
